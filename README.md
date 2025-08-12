@@ -3,8 +3,10 @@
 ![Java](https://img.shields.io/badge/Java-17-brightgreen)
 ![Maven](https://img.shields.io/badge/Maven-3.9.1-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
+[![Stars](https://img.shields.io/github/stars/yourusername/invoice-generator?style=social)](https://github.com/prug-fim/OutriX_tasks_2/stargazers)
 
-A simple Java Swing desktop application for managing student records with full CRUD and search functionality backed by MySQL.
+
+A Java Swing desktop application for managing student records with full CRUD and search functionality backed by MySQL.
 
 ---
 
