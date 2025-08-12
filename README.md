@@ -16,14 +16,6 @@ A simple Java Swing desktop application for managing student records with full C
 - ✅ Delete students  
 - ✅ Search by name, email, or course
 
----
-
-## Setup Instructions
-
-(keep the same setup instructions here as before...)
-
----
-
 ## Contribution 🤝
 
 Contributions, issues, and feature requests are welcome!
@@ -31,10 +23,6 @@ Contributions, issues, and feature requests are welcome!
 Feel free to check [issues page](https://github.com/your-username/student-management/issues) or open a pull request.
 
 ---
-
-## Contact 📫
-
-Created by Your Name - [your-email@example.com](mailto:your-email@example.com)
 
 Project Link: [https://github.com/your-username/student-management](https://github.com/your-username/student-management)
 
